@@ -49,7 +49,7 @@ const Products = () => {
     {
       title: "Temp / Non-Temp Foils",
       description: "Specialized foils for various applications",
-      icon: "/images/temp-foil.jpeg",
+      icon: "/images/temp.jpeg",
       fullDescription: "Specialized foils for dynamic use cases, both heat-sensitive and non-sensitive depending on application needs."
     },
   ];
